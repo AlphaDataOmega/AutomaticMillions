@@ -7,3 +7,5 @@ pydantic
 requests
 openai
 python-dotenv
+httpx
+apscheduler
